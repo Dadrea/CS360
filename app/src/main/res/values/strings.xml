@@ -1,4 +1,5 @@
 <resources>
+    <!--  Login Screen Text   -->
     <string name="app_name">inventoryApplication</string>
     <string name="Username">Username</string>
     <string name="Password">Password</string>
@@ -6,4 +7,14 @@
     <string name="Register">Register New User</string>
     <string name="Company">Forward Logistics</string>
     <string name="CompanyLogo">Forward Logistics Company Logo</string>
+
+    <!--  New User Creation Text  -->
+    <string name="NewUser">Create New User</string>
+    <string name="NewUserName">Enter Username (First Initial, Last Name)</string>
+    <string name="NewUserPassword">Create New Password</string>
+    <string name="NewUserEmail">Enter Email</string>
+    <string name="NewUserPhone">Enter Phone Number</string>
+    <string name="NewUserAddress">Enter Address</string>
+    <string name="NewUserSuper">Enter Supervisor Name</string>
+    <string name="NewUserLocation">Enter Work Location</string>
 </resources>
