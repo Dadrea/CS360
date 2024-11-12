@@ -5,4 +5,5 @@
     <string name="Login">Login</string>
     <string name="Register">Register New User</string>
     <string name="Company">Forward Logistics</string>
+    <string name="CompanyLogo">Forward Logistics Company Logo</string>
 </resources>

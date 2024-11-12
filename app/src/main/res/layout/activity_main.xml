@@ -33,7 +33,9 @@
         <ImageView
             android:layout_width="160dp"
             android:layout_height="160dp"
+            android:layout_gravity="center"
             android:src="@drawable/logistic_arrows"
+            android:contentDescription="@string/CompanyLogo"
             />
 
         <EditText
@@ -86,7 +88,7 @@
             android:layout_marginTop="5dp"
             android:textSize="20sp"
             android:id="@+id/register_btn"
-            
+
             />
 
     </LinearLayout>
