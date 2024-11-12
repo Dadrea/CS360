@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">inventoryApplication</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="Login">Login</string>
+    <string name="Register">Register New User</string>
+    <string name="Company">Forward Logistics</string>
+</resources>
