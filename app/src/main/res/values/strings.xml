@@ -17,4 +17,5 @@
     <string name="NewUserAddress">Enter Address</string>
     <string name="NewUserSuper">Enter Supervisor Name</string>
     <string name="NewUserLocation">Enter Work Location</string>
+    <string name="BackToLogin">Back to Login</string>
 </resources>
